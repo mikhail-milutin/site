@@ -16,7 +16,7 @@ export default function AboutMobile() {
       <div>
         <div className="text-[#b0b0b0] text-center text-sm md:text-lg font-poiret tracking-wider">
           Художник, создатель драгоценностей. Произведения Михаила Милютина –
-          синтез ювелирного мастерства и художественной фантазии.
+          синтез ювелирного мастерства и художественной фантазии
         </div>
       </div>
       <Link to="/about" className="">
